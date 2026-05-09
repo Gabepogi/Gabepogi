@@ -1,13 +1,12 @@
-# Hi there, I'm Juan Dela Cruz 👋
+# Hi there, I'm Gabriel Red Ray R. Perez 👋
 
 ## About Me
-I am Juan Dela Cruz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
+I am Gabriel Red Ray R. Perez, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
 ---
 
 ## 🎓 Education
 **BS Information Technology**  
-:contentReference[oaicite:0]{index=0}  
 2021 - Present
 
 ---
